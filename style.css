@@ -1,3 +1,16 @@
 h2 {
-  background: grey;
+  background-color: gray;
+}
+.chinese {
+  font-family:fantasy;
+}
+
+#gilligan {
+  color: navy;
+  background-color: lightblue;
+  border: yellow dashed 2px;
+  hover: blue;
+}
+ol li {
+  font-weight: 900;
 }
