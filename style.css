@@ -25,6 +25,8 @@ img {
 
 .chinese {
   font-family:fantasy;
+  text-align: center;
+  font-style: oblique
 }
 
 .box {
@@ -39,3 +41,14 @@ img {
   border: yellow dashed 2px;
   hover: blue;
 }
+#drug {
+  text-decoration: line-through
+}
+
+a:link {color:blue}
+a:visited{color: green;
+background:red}
+a:hover {color:hotpink;
+background: white}
+a:active{color:red;
+background: yellow}
