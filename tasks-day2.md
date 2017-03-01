@@ -13,7 +13,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] height
   - [x] display
   - [x] margin
-  - [ ] padding
+  - [X] padding
   - [x] border
   - [x] border-radius
   - [x] background-color
