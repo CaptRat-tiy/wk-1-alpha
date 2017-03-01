@@ -1,15 +1,6 @@
+h1{background:white}
 h2 {
   background-color: gray;
-}
-.chinese {
-  font-family:fantasy;
-}
-
-#gilligan {
-  color: navy;
-  background-color: lightblue;
-  border: yellow dashed 2px;
-  hover: blue;
 }
 ol li {
   font-weight: 900;
@@ -20,9 +11,9 @@ p{
   width: 700px;
 }
 span {
-  display: block;
+  display: inline-block;
   background-color: goldenrod;
-  width: 4em;
+  /*width: 4em;*/
 }
 
 img {
@@ -30,4 +21,21 @@ img {
   border: 2px solid grey;
   border-radius: 10%;
   padding: 10px;
+}
+
+.chinese {
+  font-family:fantasy;
+}
+
+.box {
+  width: 600px;
+  height: 600px;
+  border: 1px solid black;
+  background-image: URL("http://extras.mnginteractive.com/live/media/site36/2015/0702/20150702__20150705_E7_TR05TRCAPREEF~p1.jpg")
+}
+#gilligan {
+  color: navy;
+  background-color: lightblue;
+  border: yellow dashed 2px;
+  hover: blue;
 }
