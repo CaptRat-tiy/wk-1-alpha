@@ -34,9 +34,12 @@ img {
   width: 600px;
   height: 600px;
   border: 1px solid black;
-  background-image: URL("http://extras.mnginteractive.com/live/media/site36/2015/0702/20150702__20150705_E7_TR05TRCAPREEF~p1.jpg")
+  background-image: URL("veggies/CAPITOL-REEF-National-Park.jpg")
 }
 
+div #Capitol {
+  background: beige;
+}
 #gilligan {
   color: navy;
   background-color: lightblue;
