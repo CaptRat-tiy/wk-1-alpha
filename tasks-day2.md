@@ -9,13 +9,13 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [ ] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
   - [ ] shared styles (e.g. `p, a`)
 - Add styling including at least one instance for each of these **properties**:
-  - [ ] width
-  - [ ] height
-  - [ ] display
-  - [ ] margin
+  - [x] width
+  - [x] height
+  - [x] display
+  - [x] margin
   - [ ] padding
   - [x] border
-  - [ ] border-radius
+  - [x] border-radius
   - [x] background-color
   - [ ] background-image
   - [x] color

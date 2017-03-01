@@ -14,3 +14,20 @@ h2 {
 ol li {
   font-weight: 900;
 }
+
+p{
+  height:100%;
+  width: 700px;
+}
+span {
+  display: block;
+  background-color: goldenrod;
+  width: 4em;
+}
+
+img {
+  margin: 5px 100px;
+  border: 2px solid grey;
+  border-radius: 10%;
+  padding: 10px;
+}
