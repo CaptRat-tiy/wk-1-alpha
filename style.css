@@ -1,4 +1,5 @@
 h1{background:white}
+
 h2 {
   background-color: gray;
 }
@@ -35,12 +36,14 @@ img {
   border: 1px solid black;
   background-image: URL("http://extras.mnginteractive.com/live/media/site36/2015/0702/20150702__20150705_E7_TR05TRCAPREEF~p1.jpg")
 }
+
 #gilligan {
   color: navy;
   background-color: lightblue;
   border: yellow dashed 2px;
   hover: blue;
 }
+
 #drug {
   text-decoration: line-through
 }
