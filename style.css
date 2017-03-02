@@ -76,3 +76,36 @@ span {
   border: yellow dashed 2px;
   hover: blue;
 }
+
+.right-side {
+  padding: 1em;
+  background: mediumblue;
+  float: right;
+}
+.left-side {
+  padding: 1em;
+  background: mediumblue;
+  float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+}
+
+.cf:before,
+.cf:after{
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
