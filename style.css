@@ -97,18 +97,11 @@ ul {
     padding: 0;
 }
 
-/*li a {
-    display: block;
-    width: 60px;
-    background-color: #dddddd;
-}*/
-
-/*.cf:before,
-.cf:after{
-  content: " ";
-  display: table;
+.footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
-
-.cf:after {
-  clear: both;
-}*/
